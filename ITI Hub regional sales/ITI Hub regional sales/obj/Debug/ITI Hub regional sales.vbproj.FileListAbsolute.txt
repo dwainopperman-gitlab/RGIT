@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\bin\Debug\ITI Hub regional sales.exe.config
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\bin\Debug\ITI Hub regional sales.exe
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\bin\Debug\ITI Hub regional sales.pdb
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\bin\Debug\ITI Hub regional sales.xml
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI_Hub_regional_sales.ITIHubRegionalSales.resources
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI_Hub_regional_sales.Resources.resources
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.exe
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.xml
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.pdb
+C:\Users\admin\source\repos\ITI Hub regional sales\ITI Hub regional sales\obj\Debug\ITI Hub regional sales.vbprojAssemblyReference.cache

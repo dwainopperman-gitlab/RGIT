@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.exe.config
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.exe
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.pdb
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\bin\Debug\Wallpaper App.xml
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper_App.WallpaperApp.resources
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper_App.Resources.resources
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.exe
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.xml
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.pdb
+C:\Users\admin\source\repos\Wallpaper App\Wallpaper App\obj\Debug\Wallpaper App.vbprojAssemblyReference.cache

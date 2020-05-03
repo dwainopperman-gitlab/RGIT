@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\bin\Debug\RGIT annual asset depreciation App.exe.config
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\bin\Debug\RGIT annual asset depreciation App.exe
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\bin\Debug\RGIT annual asset depreciation App.pdb
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\bin\Debug\RGIT annual asset depreciation App.xml
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT_annual_asset_depreciation_App.RGITAnnualAssetDepreciationApp.resources
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT_annual_asset_depreciation_App.Resources.resources
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT annual asset depreciation App.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT annual asset depreciation App.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT annual asset depreciation App.exe
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT annual asset depreciation App.xml
+C:\Users\admin\source\repos\RGIT annual asset depreciation App\RGIT annual asset depreciation App\obj\Debug\RGIT annual asset depreciation App.pdb
